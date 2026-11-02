@@ -1,0 +1,11 @@
+# TD / ModelSim generated output
+*_Runs/
+work/
+__pycache__/
+*.pyc
+*.log
+*.logw
+*.dmp
+*.svf
+# TF image is distributed through GitHub Releases
+*.img
